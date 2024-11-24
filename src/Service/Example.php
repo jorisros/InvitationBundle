@@ -9,3 +9,4 @@ class Example
         return $number * $number;
     }
 }
+
