@@ -1,7 +1,7 @@
 {
   "name": "jorisros/invitation-bundle",
   "type": "symfony-bundle",
-  "homepage": "https://github.com/jorisros/invitation-bundle",
+  "homepage": "https://github.com/jorisros/InvitationBundle",
   "license": "MIT",
   "autoload": {
     "psr-4": {
